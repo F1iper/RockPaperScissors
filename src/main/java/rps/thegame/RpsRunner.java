@@ -8,5 +8,6 @@ public class RpsRunner {
         game.play();
 
         //todo selection can be null, FIX that
+
     }
 }
